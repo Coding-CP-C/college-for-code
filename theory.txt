@@ -1,0 +1,30 @@
+Introduction:
+To develop code for half adder and full adder. Simulate the code in the software.
+
+Required Components:
+1. Xilinx Software Loaded PC = 1 Set
+2. Print = 1
+
+Description:
+1. Theory
+2. Algorithm
+3. Description
+4. VHDL Code Writing
+5. Compile and Run program.
+
+Theory:
+Half adders are a basic building block for new digital designers. A half-adder shows how two bits can be added together with a few simple logic gates. A single full-adder has two one-bit inputs, a carry-in input, a sum output, and a carry-out output.
+
+Full Adder is the adder which adds three inputs and produces two outputs. The first two inputs are A and B and the third input is an input carry as C-IN. The output carry is designated as C-OUT and the normal output is designated as S which is SUM.
+
+ALGORITHM:
+1. Define Library functions.
+2. Declare Entity and Architecture.
+3. Describe functionality.
+4. End source code.
+5. Compile and Run program.
+
+DESRIPTION:
+For adding together larger numbers a Full-Adder can be used. A single half-adder has two one-bit inputs, a sum output, and a carry-out output.
+
+Refer to the truth table below to see how these bits operate. The code creates a half adder. There is also a test bench that stimulates the design and ensures that it behaves correctly.
